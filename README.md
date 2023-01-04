@@ -13,10 +13,15 @@ this project for instagram is doing a spam banned to target account by fake acco
 
 
 
-#2 downlaod  library  of Python and more sttuf 
+2 #downlaod  library  of Python and more sttuf
+
+
+
 
 
 #For liunx Termux :
+
+
 
 
 apt install python3 
