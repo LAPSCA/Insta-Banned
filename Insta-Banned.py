@@ -4,17 +4,18 @@
 # Follow us on telegram ( @estkna3a )
 # LAPSCA : By @niuoten
 try:
-	import requests,time,pyfiglet
-	import webbrowser , colorama 
-	from colorama import Fore
-	F = '\033[2;32m' #اخضر
-	X = '\033[1;33m' #اصفر
-except:
-	print(X+ """    
-	 ҉ - - -LAPSCA$
- _/﹋\_
+    import requests, time, pyfiglet
+    import webbrowser, colorama
+    from colorama import Fore
+    F = '\033[2;32m'  # اخضر
+    X = '\033[1;33m'  # اصفر
+except ImportError:
+    print("""    
+    ҉ - - -LAPSCA$
+  _/﹋\_
 @LAPSCA1---- Telegranm Channle ---@estkan3a
 niuoten """)
+
 total=1
 def Rep_Insta(total):
 	user=input("[?] User name Of Fake Account »: ")
