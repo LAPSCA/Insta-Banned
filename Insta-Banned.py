@@ -11,16 +11,16 @@ try:
 	X = '\033[1;33m' #اصفر
 except:
 	print(X+ """    
-	 ҉ - - -LAPSCA$
- _/﹋\_
-@LAPSCA1---- Telegranm Channle ---@estkan3a
-niuoten """)
+	 ҉ - - - LAPSCA$
+ _/﹋\_ 
+ 
+ """)
 total=1
 def Rep_Insta(total):
-	user=input("[?] User name Of Fake Account »: ")
-	pess=input("[?] o Password o»: ")
-	target=input("[?] oPut The Target User name Account o»: ")
-	webbrowser.open('https://t.me/niuoten')
+	user=input("[<\>] User name Of Fake Account »: ")
+	pess=input("[<\>]  Password »: ")
+	target=input("[<\>] Put The Target User name Account »: ")
+	webbrowser.open
 	url_get_id = "https://i.instagram.com:443/api/v1/users/lookup/"
 	head_get_id = {"Connection": "close", "X-IG-Connection-Type": "WIFI", "mid": "XOSINgABAAG1IDmaral3noOozrK0rrNSbPuSbzHq",
 	"X-IG-Capabilities": "3R4=", "Accept-Language": "ar-sa",
@@ -116,9 +116,9 @@ def main():
 	print(X+ """
  _/﹋\_
  (҂`_´)
- <,︻╦╤─ ҉ - - -@niuoten
- _/﹋\ -----@LAPSCA TEAM 
-niuoten-adb  ----- Join Us in Telegram LAPSCA$ @estkan3a ===============================   """)
+ <,︻╦╤─ ҉ - - -
+ _/﹋\ -----LAPSCA TEAM 
+ ===============================   """)
 	print("-"*40)
 main()
 Rep_Insta(total)
