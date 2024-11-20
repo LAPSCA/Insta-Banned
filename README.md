@@ -50,10 +50,10 @@ III - cd Insta-Banned
 IIII - chmod +x * 
 
 
- IV ls
+ IV  - ls
  
  
- IIV   python3 Insta-Banned.py 
+ IIV  -  python3 Insta-Banned.py 
 
 
 
@@ -63,7 +63,7 @@ Have Fun with it
 
 
 
-Copyright 2023 LAPSCA Team
+#Copyright 2023 LAPSCA Team
 
 
 
