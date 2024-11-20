@@ -1,7 +1,7 @@
 # Instagram Banned 
 
 
-this project for instagram is doing a spam banned to target account by fake account is easy to work dont do bad thing is just for fun 
+this project for instagram is doing a spam banned to target account by fake account is easy to work dont do bad thing is just for fun  i will update the tool must time  ..
 
 
 
@@ -26,8 +26,7 @@ this project for instagram is doing a spam banned to target account by fake acco
 
 apt install python3 
 
-
-apt install python2 
+ 
 
 
 pip3 install colorama pyfiglet 
@@ -51,7 +50,7 @@ III - cd Insta-Banned
 IIII - chmod +x * 
 
 
- IV  ls 
+ IV ls
  
  
  IIV   python3 Insta-Banned.py 
@@ -69,4 +68,4 @@ Copyright 2023 LAPSCA Team
 
 
 Our Channel [Telegram](https://t.me/estkan3a)
-this Project By @niuoten [GitHub](https://github.com/niuoten)
+This Project By niuoten [GitHub](https://github.com/niuoten)  [Telegram](t.me/niuoten)
